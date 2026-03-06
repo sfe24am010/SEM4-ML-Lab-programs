@@ -57,5 +57,4 @@ Through these Machine Learning lab experiments, the following concepts were prac
 ## 👩‍💻 Author
 **Irfana J**  
 B.Sc Artificial Intelligence & Machine Learning    
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub : https://github.com/sfe24am010
